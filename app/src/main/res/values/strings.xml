@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">customGallery</string>
+    <string name="txt_gallery">Gallery</string>
+    <string name="txt_done">Done</string>
+    <string name="permissions">Permissions</string>
+    <string name="permission_message">You would not be able to edit photos without giving access to your devices storage. Do you want to change your settings</string>
+    <string name="single">Single</string>
+    <string name="multiple">Multiple</string>
+
+</resources>
